@@ -53,3 +53,31 @@ ex: offense, defense, mobility, utility
         - Possibly have different difficulties, and harder difficulties yeield better drops?
         - What should be the difference between playing solo, or going with a team?
         - I have a feeling I wouldnt want it to be like runescape, where there are many people on the same world, I think I would want it to just be you and your team, if you have one
+        - When you roll items, you can then wear the expected sort of armor/weapon slots (limited to your character class `(?)`)
+        - Should trading be allowed?
+            - My gut feeling is no, I feel like you could just boost others through the game that way
+            - Unless a different system other than what is mentioned next comes up
+        - Items you dont want, you can cash in, and then use whatever currency that yields in order to unlock abilities
+    - PvP
+        - Different game-modes `(?)` (very experimental thoughts)
+            - 3v3
+                - Locked character classes (1,1,1)
+                - Unbounded
+            - 6v6
+                - Locked character classes (2,2,2)
+                - Bounded character classes (1+,1+,1+)
+                - Unbounded
+            - Possibilities for even larger game-modes?
+                - Would probably be more for just fun, instead of ranked, as it would be really chaotic
+        - Should playing matches in this "world" also yield the previously mentioned currency?
+    - Do items earned in PvM cross into PvP?
+        - I could see this making a lot of sense from the perspective of why good items would matter
+        - But this could really throw off fair matchmaking
+        - Maybe it only shows up in the more "fun" game-modes?
+- Possible monetization `(?)` (very much brainstorming)
+    - Purchasing currency
+        - Gives you free progression, without necessarily making you stronger
+    - Skins
+        - Character skins
+        - Ability skins `(?)` (gives abilities different look/animations)
+        - Would be pretty easy to make many skins for characters, as there are only 3
