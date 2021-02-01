@@ -77,6 +77,11 @@ ex: offense, defense, mobility, utility
 - Possible monetization `(?)` (very much brainstorming)
     - Purchasing currency
         - Gives you free progression, without necessarily making you stronger
+        - Would still be limited by level & points (couldnt just buy everything and use it at level 1)
+        - Therefore, need to find the right balance
+            - Cant just get everything from buying it
+            - Do feel like theres a degree of it being worth it to buy some stuff
+            - If you decide not to buy things, its not so terrible that the games not worth playing
     - Skins
         - Character skins
         - Ability skins `(?)` (gives abilities different look/animations)
